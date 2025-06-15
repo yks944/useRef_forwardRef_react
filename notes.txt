@@ -1,2 +1,6 @@
 useRef() -> used to get the reference of the element
 this doesnt enforce the component to re-render as like useState()
+
+
+createPortal() ->
+is used to render the component to the choice of dom, below we have attached to the div having id as modal containing in index.html
