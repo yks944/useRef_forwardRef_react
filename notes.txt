@@ -1,0 +1,2 @@
+useRef() -> used to get the reference of the element
+this doesnt enforce the component to re-render as like useState()
